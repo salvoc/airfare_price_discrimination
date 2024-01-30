@@ -1,0 +1,7 @@
+local.settings.json
+apdlogic.logicapp.json
+data/scrape-data/*
+data/user-profiles/*
+data/logs/*
+data/scrape-pics/*
+__pycache__/

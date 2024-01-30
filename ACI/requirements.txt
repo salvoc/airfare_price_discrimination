@@ -1,0 +1,5 @@
+selenium
+webdriver_manager
+requests
+click
+beautifulsoup4==4.12.2
